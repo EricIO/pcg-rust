@@ -1,0 +1,11 @@
+[package]
+
+name    = "pcg-rust"
+version = "0.1.0"
+authors = ["Eric Skoglund <eric@pagefault.se>"]
+
+[lib]
+name   = "pcg-rust"
+path   = "src/lib.rs"
+doc    = true
+plugin = false
